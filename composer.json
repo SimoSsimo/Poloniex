@@ -5,6 +5,10 @@
     "license": "None",
     "authors": [
         {
+            "name": "Compcentral",
+            "email": "Unknown"
+        },
+	{
             "name": "Dominic Dambrogia",
             "email": "domdambrogia@gmail.com"
         }
