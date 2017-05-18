@@ -1,0 +1,14 @@
+{
+    "name": "dambrogia/poloniex",
+    "description": "A PHP Wrapper Class for the Poloniex API",
+    "type": "composer-plugin",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Dominic Dambrogia",
+            "email": "domdambrogia@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
